@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    utxoracle (0.1.1)
+    utxoracle (0.1.2)
       cleanrpc (~> 0.0.2)
       typhoeus (~> 1.4.0)
 
